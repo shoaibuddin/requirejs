@@ -29,36 +29,62 @@
       </header>
       <section>
         <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+<a name="welcome-to-requirejs" class="anchor" href="#welcome-to-requirejs"><span class="octicon octicon-link"></span></a>Welcome to RequireJS</h3>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+<p>How to implement RequireJS to a project and how to load JS libraries like JQuery and plugins like JqueryTools with RequireJS</p>
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
+<h3>
+<a name="how-to-implement" class="anchor" href="#how-to-implement"><span class="octicon octicon-link"></span></a>How To Implement</h3>
+
+<h4>
+<a name="add-to-your-include-headinit" class="anchor" href="#add-to-your-include-headinit"><span class="octicon octicon-link"></span></a>Add to your include headinit</h4>
+
+<pre><code>&lt;script data-main="js/main.js" src="js/libs/requirejs/require.js"&gt;&lt;/script&gt;
 </code></pre>
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+<h4>
+<a name="in-mainjs-set-the-configs" class="anchor" href="#in-mainjs-set-the-configs"><span class="octicon octicon-link"></span></a>In main.js set the configs</h4>
 
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+<pre><code>require.config({
+  //By default load any module IDs from js/
+  baseUrl: 'js',
+  //define key lib locations
+  paths: {
+    jquery: "libs/jquery/jquery-1.8.1.min",
+    jquerytools: "libs/plugins/jquery.tools.min"
+  },
+  shim: {
+    'jquerytools': ['jquery']
+  }
+});
+</code></pre>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+<h4>
+<a name="to-require-a-module" class="anchor" href="#to-require-a-module"><span class="octicon octicon-link"></span></a>To require a module</h4>
 
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
+<pre><code> require (['modules/text'],function(){
+ });
+</code></pre>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+<h4>
+<a name="to-define-a-module" class="anchor" href="#to-define-a-module"><span class="octicon octicon-link"></span></a>To define a module</h4>
+
+<pre><code>define(['jquery'], function($) {
+    $(".hello").click(function(event) {
+        $(this).append("&lt;strong&gt;Hello World&lt;/strong&gt;");
+    });
+});
+</code></pre>
 
 <h3>
 <a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+<p>An experiment developed by Shoaib Ud-Din (<a href="https://github.com/shoaibuddin" class="user-mention">@shoaibuddin</a>).</p>
 
 <h3>
 <a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
 
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+<p>Having trouble? I am on twitter <a href="https://github.com/shoaibuddin" class="user-mention">@shoaibuddin</a></p>
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/shoaibuddin">shoaibuddin</a></p>
