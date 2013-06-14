@@ -1,0 +1,605 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"He",
+				"js-helpful-yes"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"conso",
+				"console.	console.log()"
+			],
+			[
+				"con",
+				"console.	console.log()"
+			],
+			[
+				"ma",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "indexNew.html",
+			"settings":
+			{
+				"buffer_size": 3920,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery.ajax"
+			],
+			[
+				"click",
+				"Snippet: click"
+			],
+			[
+				"post",
+				"Snippet: $.post()"
+			],
+			[
+				"clicl",
+				"Snippet: jQuery click handler"
+			],
+			[
+				"change",
+				"Snippet: .change"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"",
+				"Snippet: Try .. Catch"
+			],
+			[
+				"auto",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"coffee",
+				"Coffee: Run Cake Task"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"coff",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"co",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 186.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/expertReviewsPagination.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/vehicle-research/pages/expertReviews.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/includes/_expertReviews.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/expertReviewSingle.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/consumerReviews.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/crp/buyingGuides/model-listings/includes/_vehicleList.jsp",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/calculator.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/usman.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/text.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/modal.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/employees.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/indexNew.html",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/main.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/bean/initializeMMYBean.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/stylesComparePrice.jsp",
+		"/Users/Shobi/Desktop/css-june-12-before-push/bazaarVoiceConsumerReviews.css",
+		"/Users/Shobi/Desktop/css-june-12-before-push/research.css",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/includes/_mmyModule.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/data/mmy/xml/structure.xml",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/controller.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/controller.jsp",
+		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/site.css",
+		"/Users/Shobi/Desktop/jquerytools/js/app.js",
+		"/Users/Shobi/Desktop/jquerytools/js/main.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/manufacturerIncentives.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/templates/mmy/manufacturerIncentivesDDLB.ejs",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/searchDealersInventory.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/searchDealerListings.js",
+		"/Users/Shobi/Desktop/requirejs/js/modules/text.js",
+		"/Users/Shobi/Desktop/requirejs/js/modules/modal.js",
+		"/Users/Shobi/Desktop/requirejs/js/modules/calculator.js",
+		"/Users/Shobi/Desktop/requirejs/js/modules/acura_tsx.js",
+		"/Users/Shobi/Desktop/requirejs/js/main.js",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/includes/_subTabs.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/css/cars/research.css",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/writeReviewModal.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/writeReviewModal.js",
+		"/Users/Shobi/Desktop/mmy-backup.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/consumerReviews.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/templates/mmy/consumerReviewsRatings.ejs",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/templates/mmy/consumerReviews.ejs",
+		"/Users/Shobi/Desktop/requirejs/indexNew.html",
+		"/Users/Shobi/Desktop/requirejs/modal.html",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/consumerReviews.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/mmy.js",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/includes/_mmyModule.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/vehicle-research/includes/overviewModule.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/zipcap.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/mmy.js",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/consumerReviews.js",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/proxy/getConsumerReviews.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/tabs.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/vehicle-research/pages/consumerReviews.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/bean/initializeMMYBean.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/specifications.js",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/templates/mmy/manufacturerIncentivesDDLB.ejs",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/manufacturerIncentives.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/manufacturerIncentives.js",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/templates/mmy/manufacturerIncentivesListing.ejs",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/consumerReviews-New.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/expertSnapshot.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/closestDealersListing.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/consumerReviews-org.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/templates/mmy/consumerReviews.ejs",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/expertReviewSingle.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/specifications.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/manufacturerIncentives.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/data/mmy/xml/structure.xml",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/specificationsDDLB.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/proxy/getSpecifications.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/shobi-test.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/proxy/getManufacturerIncentives.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/compareVehicle.js",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/guides/mlp/includes/_vehicleRow.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/compareVehicle.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mlp.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/guides/mlp/includes/_vehicleRow.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mlpVehicle.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/templates/compareCountBottom.ejs",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/templates/compareCountTop.ejs",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/compareVehicle.js",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/data/mmy/json/consumerReviewsTest.json",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/proxy/getInventoryCount.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/includes/_consumerReviews.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/vehicle-research/proxy/doInventorySearch.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/templates/mmy/searchDealersInventoryUsed.ejs",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/closestDealersListing.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/consumerReviewsRatings.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/templates/mmy/consumerReviews.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/includes/_snapshot.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/video.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/vehicle-research/proxy/tcoModule.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/vehicle-research/pages/prices.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/fiveYearCost.jsp",
+		"/Users/Shobi/Desktop/5yearcost-trim/5yearcost.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/vehicle-research/includes/fullTrimlist.jsp",
+		"/Users/Shobi/Desktop/5yearcost-trim/shobi-test.jsp",
+		"/Users/Shobi/Desktop/fiveYearCost.jsp",
+		"/Users/Shobi/Desktop/testing.js",
+		"/Users/Shobi/Desktop/coffee-script/test.js",
+		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/.htaccess",
+		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/wp-config.php",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/vehicle-research/pages/videos.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/includes/_videos.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/video.js",
+		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/wp-config",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/includes/costOfOwnership.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/pages/index.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/fiveYearCost.js",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/vehicle-research/proxy/tcoModule.jsp",
+		"/Users/Shobi/Desktop/backup-5year/fiveYearCost.js",
+		"/Volumes/iwdefault/main/cars/www/WORKAREA/FQA1/core/js/libs/jquery/google.jsapi.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/crp/research/costofownership/includes/_stateOptionList.htm",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/crp/research/costofownership/includes/coo.xsl",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/crp/research/costofownership/includes/labels.xml",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy.js",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/crp/research/costofownership/aboutTCO.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/functionality/vehicle-research/pages/safety.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/stylesComparePrice.jsp",
+		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/vehicle-research/pages/videos.jsp",
+		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/functionality/core/css/cars/core.css",
+		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/helper-text.php",
+		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/expert-reviews.php",
+		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/content-expert-consumer-reviews.php",
+		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/expert-consumer-reviews.php",
+		"/Users/Shobi/Documents/Work/dpl/html/rebrand/mmy/includes/content-expert-consumer-reviews.php",
+		"/Users/Shobi/Documents/Work/dpl/html/rebrand/mmy/widgets/expert-snapshot.php",
+		"/Users/Shobi/Documents/Work/dpl/html/rebrand/mmy/widgets/expert-reviews.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vpedia",
+			"start",
+			"totalPages",
+			"each",
+			"position",
+			" ${",
+			"assetType",
+			"var",
+			"reviews",
+			"premium",
+			"expert-reviews",
+			"expert",
+			"3px !important;",
+			" padding-bottom: 3px !important;",
+			"select",
+			"Â Â Â Â",
+			"BVRRSubmissionError",
+			"BVRRReviewTipsHeaderID",
+			"submit",
+			"BVRRReviewFormButtons input",
+			"#BVSubmissionContainer",
+			".BVRREditReviewContent",
+			"BVRRThankYouPostTo",
+			"BVWriteEmbedded",
+			":hover",
+			"/div",
+			"BVRREditReviewContent",
+			"BVWriteEmbedded",
+			"BVRREditReviewContent ",
+			"Est",
+			"mpg",
+			"nofollow",
+			"overlay",
+			"item",
+			"rating cons",
+			"item",
+			"wrapper",
+			"item",
+			"img",
+			"item",
+			"79",
+			"write",
+			"h2",
+			"HelpfulLink",
+			"%",
+			"report",
+			"_self",
+			"report-inappropriate-",
+			"help",
+			"report-link",
+			"helpful",
+			"report",
+			"CONSUMER",
+			"overviewonl",
+			"overview",
+			"consumer",
+			"js-consumer-reviews",
+			"sorttype",
+			"makeId",
+			"id",
+			"consumer",
+			"tooltip1",
+			"tooltip",
+			"otification",
+			"cv",
+			".ejs",
+			"div",
+			"notification",
+			"disable rest",
+			"notification",
+			"operation",
+			"opration",
+			"operation",
+			"operat",
+			"opera",
+			"code",
+			"consumerReviews",
+			"starsBgValue",
+			"star",
+			"categoryReviews",
+			"consumerReviews",
+			"<div class=\"js-conRevWidget\" data-mkname=\"${overview.result.modelInfo.make}\" data-mdname=\"${overview.result.modelInfo.model}\" data-mkid=\"${vehicle.legacyMakeId}\" data-mdid=\"${vehicle.legacyModelId}\" data-yearid=\"${overview.result.mmy.yearId}\" data-year=\"${overview.result.modelInfo.year}\" data-dispmodel=\"${overview.result.modelInfo.model}\">\n   <div class=\"module no-border\">\n         <div class=\"row\">\n            <div class=\"col19\">\n               <h2>Consumer Reviews</h2>\n            </div>\n            <div class=\"col7 align-right\">\n               <p class=\"button-middle-align\">Sort Reviews By</p>\n            </div>\n            <div class=\"col11 align-right\">\n               <div class=\"select\">\n                  <select>\n                     <option>Most Recent</option>\n                     <option>Oldest</option>\n                     <option>Highest to Lowest</option>\n                     <option>Lowest to Highest</option>\n                  </select>\n               </div>\n            </div>\n            <div class=\"row-end\"></div>\n         </div>\n         <div class=\"simple-pagination\"> <a href=\"#44\" class=\"right\">&nbsp;</a> <a href=\"#44\" class=\"left\">&nbsp;</a> <span>1 of 10</span> </div>\n      \n      <div id=\"js-consumer-reviews\">\n      </div>\n   </div>\n</div>",
+			"sdi",
+			"${vehicle.idset.cars.make}",
+			"bvURL",
+			"service",
+			":\"${",
+			"${acode}",
+			"trim",
+			"trimpop",
+			"float-right",
+			"select\n\nselect",
+			"Average Additional Cost to Own: ",
+			"js-coo-chart",
+			"['",
+			".js",
+			"624",
+			"coo",
+			"html",
+			"<%@",
+			"value",
+			"totRate",
+			"rat",
+			"c:out",
+			"ratingNumber",
+			"rating",
+			"ratingNumber",
+			"star",
+			"value",
+			"%",
+			"legend",
+			"legendColorBox",
+			"legend",
+			"hidd",
+			"tco",
+			"cooTotal",
+			"<td align=\"right\">",
+			"trim",
+			"tco-display-holder",
+			"legendLabel",
+			"value",
+			"output",
+			"depreciation",
+			"depreciation_year1",
+			"canvas",
+			"financin",
+			"orig",
+			"acode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "indexNew.html",
+					"settings":
+					{
+						"buffer_size": 3920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 76.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Shobi/Documents/Work/cars-dev-fqa1/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true
+}
