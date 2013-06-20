@@ -47,14 +47,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "indexNew.html",
-			"settings":
-			{
-				"buffer_size": 3920,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -62,6 +54,34 @@
 		"height": 107.0,
 		"selected_items":
 		[
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"prop",
+				"Snippet: prop"
+			],
+			[
+				"chan",
+				"Snippet: .change"
+			],
+			[
+				"change",
+				"Snippet: .change"
+			],
+			[
+				"val",
+				"Snippet: .val"
+			],
+			[
+				"slid",
+				"Snippet: slideToggle"
+			],
+			[
+				"click",
+				"Snippet: click"
+			],
 			[
 				"forma",
 				"Format: Javascript"
@@ -71,20 +91,12 @@
 				"Snippet: jQuery.ajax"
 			],
 			[
-				"click",
-				"Snippet: click"
-			],
-			[
 				"post",
 				"Snippet: $.post()"
 			],
 			[
 				"clicl",
 				"Snippet: jQuery click handler"
-			],
-			[
-				"change",
-				"Snippet: .change"
 			],
 			[
 				"json",
@@ -168,19 +180,23 @@
 	},
 	"file_history":
 	[
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/index.html",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/text.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/modal.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/slide.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/main.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/css/core.css",
+		"/Users/Shobi/Desktop/requirejs/css/core.css",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/calculator.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/employees.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/usman.js",
+		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/indexNew.html",
 		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/expertReviewsPagination.jsp",
 		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/vehicle-research/pages/expertReviews.jsp",
 		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/includes/_expertReviews.jsp",
 		"/Users/Shobi/Desktop/yDrive/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/expertReviewSingle.jsp",
 		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/js/modules/mmy/consumerReviews.js",
 		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/crp/buyingGuides/model-listings/includes/_vehicleList.jsp",
-		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/calculator.js",
-		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/usman.js",
-		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/text.js",
-		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/modal.js",
-		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/modules/employees.js",
-		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/indexNew.html",
-		"/Users/Shobi/Documents/Work/personal/shoaibuddin.com/projects/requirejs/js/main.js",
 		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/bean/initializeMMYBean.jsp",
 		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/FQA1/core/jsp/vehicle-research/widgets/stylesComparePrice.jsp",
 		"/Users/Shobi/Desktop/css-june-12-before-push/bazaarVoiceConsumerReviews.css",
@@ -291,11 +307,7 @@
 		"/Users/Shobi/Documents/Work/teamsitetemp/cjprtsl01.classifiedventures.com/cache/default/main/cars/www/WORKAREA/functionality/core/css/cars/core.css",
 		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/helper-text.php",
 		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/expert-reviews.php",
-		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/content-expert-consumer-reviews.php",
-		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/expert-consumer-reviews.php",
-		"/Users/Shobi/Documents/Work/dpl/html/rebrand/mmy/includes/content-expert-consumer-reviews.php",
-		"/Users/Shobi/Documents/Work/dpl/html/rebrand/mmy/widgets/expert-snapshot.php",
-		"/Users/Shobi/Documents/Work/dpl/html/rebrand/mmy/widgets/expert-reviews.php"
+		"/private/var/folders/2t/h_x8sq892pn5czhg390ypxpr0000gp/T/fz3temp-1/content-expert-consumer-reviews.php"
 	],
 	"find":
 	{
@@ -458,81 +470,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "indexNew.html",
-					"settings":
-					{
-						"buffer_size": 3920,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -597,9 +536,9 @@
 		"width": 380.0
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 263.0,
 	"status_bar_visible": true
 }
